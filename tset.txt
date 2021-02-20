@@ -29,6 +29,8 @@ $ git clone https://github.com/diah07/C68.progate.github.io
 for add a new file
 $ git add test.txt
 
+				for update the file
+
 for check status file
 $ git status
 
