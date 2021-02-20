@@ -1,3 +1,38 @@
-a new 
-a new
-a new
+download gitbash
+open github
+making account for github
+
+
+open git bash
+folder on local disk c:
+$ cd
+$ cd /c
+user@DESKTOP-F825VVH MINGW64 /c
+
+to see the folder type
+$ ls
+
+to open the folder 
+$ git (git is the name for folder)
+user@DESKTOP-F825VVH MINGW64 /c/git
+
+for regist
+$ git config --global user.name "-name-"
+$ git config --global user.email -email-
+
+for check the accoount
+$ git config --list
+
+for connect the accoount to git bash
+$ git clone https://github.com/diah07/C68.progate.github.io
+
+for add a new file
+$ git add test.txt
+
+for check status file
+$ git status
+
+for commit
+$ git commit -m "first commit" test.txt
+
+$ git push -u origin master
